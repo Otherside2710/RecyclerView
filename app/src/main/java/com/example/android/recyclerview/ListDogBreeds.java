@@ -29,8 +29,8 @@ public class ListDogBreeds extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        btnHit = (Button) findViewById(R.id.btnHit);
-        txtJson = (TextView) findViewById(R.id.tvJsonItem);
+       // btnHit = (Button) findViewById(R.id.btnHit);
+      //  txtJson = (TextView) findViewById(R.id.tvJsonItem);
 
         btnHit.setOnClickListener(new View.OnClickListener() {
             @Override
