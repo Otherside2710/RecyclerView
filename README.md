@@ -1,4 +1,4 @@
-RecyclerView - Solution code
+Projet Java
 ============================
 
 Uses a RecyclerView to display data. Implements a custom adapter for the
